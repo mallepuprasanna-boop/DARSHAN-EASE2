@@ -1,11 +1,5 @@
 # Darshan_ease
-# 🌟 Darshan Ease
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Amitsinghyt/Darshan_Ease)
-![GitHub stars](https://img.shields.io/github/stars/Amitsinghyt/Darshan_Ease)
-![GitHub forks](https://img.shields.io/github/forks/Amitsinghyt/Darshan_Ease)
-![GitHub issues](https://img.shields.io/github/issues/Amitsinghyt/Darshan_Ease)
-![License](https://img.shields.io/badge/license-Apache-blue)
 
 Darshan Ease is a **full-stack web application** designed to simplify user interaction and provide an efficient platform for managing services and information.  
 The project follows a **modern web development architecture** with separate frontend and backend modules for better scalability and performance.
@@ -99,14 +93,14 @@ Darshan_Ease
 # ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/Amitsinghyt/Darshan_Ease.git
+git clonehttps://github.com/mallepuprasanna-boop/DARSHAN-EASE2.git
 ---
 
 # ⚙️ Installation
 
 Clone the repository:
 
-git clone https://github.com/Amitsinghyt/Darshan_Ease.git
+git clone https://github.com/mallepuprasanna-boop/DARSHAN-EASE2.git
 
 Go to the project folder:
 
@@ -196,16 +190,5 @@ This project is licensed under the **Apache License**.
 **Amit Singh**
 
 GitHub  
-https://github.com/Amitsinghyt
+https://github.com/mallepuprasanna-boop/DARSHAN-EASE2.git
 
-Linkdin
-https://www.linkedin.com/in/amitsinghyt/
-
-Twitter / X
-https://x.com/amitsingh_ytt
-
-Instagram  
-https://instagram.com/amitsingh_yt
-
-
----
